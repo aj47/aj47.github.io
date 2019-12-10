@@ -1,0 +1,714 @@
+{
+  "Help in the home": {
+    "Programme":"FLEXI, CHSP, HCP"
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Aged care homes": {
+    "Second filter layer":""
+    ,"Programme":"RESI"
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "": {
+     "First Filter layer":"Distance from me"
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Home care package": {
+     "First Filter layer":"Service type"
+    ,"Second filter layer":"Home care package"
+    ,"Programme":"HCP"
+    ,"Service type":"Home Care Package Level 1, Home Care Package Level 2, Home Care Pacakge Level 3, Home Care Package Level 4"
+    ,"Service sub-type":""
+  },
+  "Level 1": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"HCP"
+    ,"Service type":"Home Care Package Level 1"
+    ,"Service sub-type":""
+  },
+  "Level 2": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"HCP"
+    ,"Service type":"Home Care Package Level 2"
+    ,"Service sub-type":""
+  },
+  "Level 3": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"HCP"
+    ,"Service type":"Home Care Package Level 3"
+    ,"Service sub-type":""
+  },
+  "Level 4": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"HCP"
+    ,"Service type":"Home Care Package Level 4"
+    ,"Service sub-type":""
+  },
+  "Cleaning and laundry": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Domestic Assistance"
+    ,"Service sub-type":""
+  },
+  "General house cleaning": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Domestic Assistance"
+    ,"Service sub-type":"Unaccompanied Shopping (delivered to home)"
+  },
+  "Unaccompanied shopping": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Domestic Assistance"
+    ,"Service sub-type":"General House Cleaning"
+  },
+  "Linen services": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Domestic Assistance"
+    ,"Service sub-type":"Linen services"
+  },
+  "Cooking and meals": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Meals, Other food services"
+    ,"Service sub-type":""
+  },
+  "Meals at home": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Meals"
+    ,"Service sub-type":"At Centre"
+  },
+  "Meals at a centre": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Meals"
+    ,"Service sub-type":"At Home"
+  },
+  "Food advice": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Other food services"
+    ,"Service sub-type":"Food Advice, Lessons, Training, Food Safety"
+  },
+  "Food preparation": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Other food services"
+    ,"Service sub-type":"Food Preparation in the Home"
+  },
+  "Nursing": {
+     "First Filter layer":""
+    ,"Second filter layer":"Nursing"
+    ,"Programme":"CHSP"
+    ,"Service type":"Nursing"
+    ,"Service sub-type":""
+  },
+  "Showering and self-care": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Personal Care"
+    ,"Service sub-type":""
+  },
+  "Showering and self-care": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Personal Care"
+    ,"Service sub-type":"Assistance with Self-Care"
+  },
+  "Medicine help": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Personal Care"
+    ,"Service sub-type":"Assistance with client self-administration of medicine"
+  },
+  "Transport": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Transport"
+    ,"Service sub-type":""
+  },
+  "Drivers": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Transport"
+    ,"Service sub-type":"Direct (driver is volunteer or worker)"
+  },
+  "Vouchers": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Transport"
+    ,"Service sub-type":"Indirect (through vouchers or subsidies)"
+  },
+  "": {
+     "First Filter layer":""
+    ,"Second filter layer":"Health care"
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":""
+  },
+  "Dietitian or Nutritionist": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Dietitian or Nutritionist"
+  },
+  "Podiatry": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Podiatry"
+  },
+  "Physiotherapy": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Physiotherapy"
+  },
+  "Occupational Therapy": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Occupational Therapy"
+  },
+  "Social Work": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Social Work"
+  },
+  "Speech Pathology": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Speech Pathology"
+  },
+  "ATSI Health Worker": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"ATSI Health Worker"
+  },
+  "Psychologist": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Psychologist"
+  },
+  "Diversional Therapy": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Diversional Therapy"
+  },
+  "Exercise Physiologist": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Exercise Physiologist"
+  },
+  "Ongoing Allied Health and Therapy Services": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Ongoing Allied Health and Therapy Services"
+  },
+  "Other Allied Health and Therapy Services": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Other Allied Health and Therapy Services"
+  },
+  "Restorative Care Services": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Restorative Care Services"
+  },
+  "Hydrotherapy": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Allied Health and Therapy Services"
+    ,"Service sub-type":"Hydrotherapy"
+  },
+  "Respite": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Day respite at a centre": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Day respite at an aged care home": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Day respite in your home": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Day respite with a host family": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Overnight respite in the community": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Overnight respite with a host family": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Overnight respite in your home": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Community access respite with a group": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Community access respite one-on-one": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Other respite": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "": {
+     "First Filter layer":""
+    ,"Second filter layer":"Social support"
+    ,"Programme":"CHSP"
+    ,"Service type":"Social Support Group, Social Support Individual"
+    ,"Service sub-type":""
+  },
+  "Social support groups": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Social Support Group"
+    ,"Service sub-type":""
+  },
+  "Social support one-on-one": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Social Support Individual"
+    ,"Service sub-type":""
+  },
+  "Home maintenance": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Home Maintenance"
+    ,"Service sub-type":""
+  },
+  "Gardening": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Home Maintenance"
+    ,"Service sub-type":""
+  },
+  "Minor maintenance": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Home Maintenance"
+    ,"Service sub-type":""
+  },
+  "Major maintenance": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Home Maintenance"
+    ,"Service sub-type":""
+  },
+  "Updates to your home": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Home Modifications"
+    ,"Service sub-type":""
+  },
+  "Aids for mobility, communication and support": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Goods, equipment and assistive technology"
+    ,"Service sub-type":""
+  },
+  "Communication aids": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Goods, equipment and assistive technology"
+    ,"Service sub-type":""
+  },
+  "Support and mobility aids": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Goods, equipment and assistive technology"
+    ,"Service sub-type":""
+  },
+  "Self-care aids": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Goods, equipment and assistive technology"
+    ,"Service sub-type":""
+  },
+  "Medical aids": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Goods, equipment and assistive technology"
+    ,"Service sub-type":""
+  },
+  "Reading aids": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Goods, equipment and assistive technology"
+    ,"Service sub-type":""
+  },
+  "Car aids": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Goods, equipment and assistive technology"
+    ,"Service sub-type":""
+  },
+  "Other aids and equipment": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Goods, equipment and assistive technology"
+    ,"Service sub-type":""
+  },
+  "After-hospital care": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"FLEXI"
+    ,"Service type":"Transition Care"
+    ,"Service sub-type":""
+  },
+  "After hospital care": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"FLEXI"
+    ,"Service type":"Transition Care"
+    ,"Service sub-type":""
+  },
+  "Rehabilitation": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"FLEXI"
+    ,"Service type":"Transition Care"
+    ,"Service sub-type":""
+  },
+  "Other after-hospital care": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"FLEXI"
+    ,"Service type":"Transition Care"
+    ,"Service sub-type":""
+  },
+  "Complex needs": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Assessment, Assistance with Care and Housing, Care Management, Client Care Coordination, National ATSI Aged Care Program, Specialised Support Services"
+    ,"Service sub-type":""
+  },
+  "Assessment": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Assessment"
+    ,"Service sub-type":""
+  },
+  "Assistance with Care and Housing": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Assistance with Care and Housing"
+    ,"Service sub-type":""
+  },
+  "Case Management": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Case Management"
+    ,"Service sub-type":""
+  },
+  "Client Care Coordination": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Client Care Coordination"
+    ,"Service sub-type":""
+  },
+  "National ATSI Aged Care Program": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"National ATSI Aged Care Program"
+    ,"Service sub-type":""
+  },
+  "Specialised Support Services": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":"CHSP"
+    ,"Service type":"Specialised Support Services"
+    ,"Service sub-type":""
+  },
+  "": {
+     "First Filter layer":"Specialised support"
+    ,"Second filter layer":"Culture"
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Language (dropdown / enter text)": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Cultural background (dropdown / enter text)": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Food (dropdown / enter text)": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Religion (dropdown / enter text)": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "": {
+     "First Filter layer":""
+    ,"Second filter layer":"Diverse backgrounds"
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Aboriginal and/or Torres Strait Islander": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Veterans": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Care-leavers": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Lesbian, gay, bisexual, transgender and intersex people": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Rural or remote": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Financially or socially disadvantaged": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Parents separated from their children by forced adoption or removal": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "": {
+     "First Filter layer":""
+    ,"Second filter layer":"Care needs"
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Dementia": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Continence": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Hearing": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Respite": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Wellness and reablement": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Mental health": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Vision": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Terminal illness": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Mobility ": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Assistive technology": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  },
+  "Availability": {
+     "First Filter layer":""
+    ,"Second filter layer":""
+    ,"Programme":""
+    ,"Service type":""
+    ,"Service sub-type":""
+  }
+}
+
